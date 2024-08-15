@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1061806531764",
+    "project_id": "straymaps-ncc74656",
+    "storage_bucket": "straymaps-ncc74656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061806531764:android:eaf1d51fa7eaf1413fe3e1",
+        "android_client_info": {
+          "package_name": "com.example.straymaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061806531764-vjm79a34qeibbrtjo9bkdakg1u1hommv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.straymaps",
+            "certificate_hash": "e35d6e38c5d6acff008a85c969a346c4dd75a72c"
+          }
+        },
+        {
+          "client_id": "1061806531764-a6ltov7rrta41vu79quvacmm501aau4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLlOz5sLas4WQQFm9gCTfusvUfsu4_4MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061806531764-a6ltov7rrta41vu79quvacmm501aau4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

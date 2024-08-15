@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_very_small">4dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">32dp</dimen>
+    <dimen name="padding_extra_large">64dp</dimen>
+    <dimen name="padding_extra_extra_large">128dp</dimen>
+    <dimen name="thickness_divider">1dp</dimen>
+    <dimen name="circular_progression_indicator_large">44dp</dimen>
+    <dimen name="card_elevation_small">12dp</dimen>
+    <dimen name="card_elevation_large">24dp</dimen>
+    <dimen name="rounded_corner_shape_small">12dp</dimen>
+    <dimen name="rounded_corner_shape_medium">16dp</dimen>
+    <dimen name="rounded_corner_shape_large">20dp</dimen>
+</resources>
